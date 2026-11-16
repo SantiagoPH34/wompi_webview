@@ -1,0 +1,5 @@
+{
+  "WOMPI_PUBLIC_KEY": "pub_test_REEMPLAZAR",
+  "WOMPI_INTEGRITY_SECRET": "test_integrity_REEMPLAZAR",
+  "WOMPI_SANDBOX_PRIVATE_KEY": "prv_test_REEMPLAZAR"
+}

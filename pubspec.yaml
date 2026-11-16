@@ -1,0 +1,24 @@
+name: wompi_webview
+description: >-
+  Flutter WebView integration for Wompi Web Checkout with SHA-256 integrity
+  signing, automatic redirect interception, security guards, and Sandbox
+  transaction verification.
+version: 0.1.0
+repository: https://github.com/SantiagoPH34/wompi_webview
+issue_tracker: https://github.com/SantiagoPH34/wompi_webview/issues
+
+environment:
+  sdk: ^3.10.0
+  flutter: ">=3.24.0"
+
+dependencies:
+  crypto: ^3.0.8
+  flutter:
+    sdk: flutter
+  http: ^1.6.0
+  webview_flutter: ^4.14.1
+
+dev_dependencies:
+  flutter_lints: ^6.0.0
+  flutter_test:
+    sdk: flutter
