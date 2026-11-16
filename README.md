@@ -10,6 +10,21 @@ Paquete Flutter para integrar **Wompi Web Checkout** (`checkout.wompi.co` / `che
 
 ## Instalación
 
+Desde `pub.dev`:
+
+```bash
+flutter pub add wompi_webview
+```
+
+O en tu `pubspec.yaml`:
+
+```yaml
+dependencies:
+  wompi_webview: ^0.1.0
+```
+
+*(También puedes instalarlo directamente desde GitHub):*
+
 ```yaml
 dependencies:
   wompi_webview:
